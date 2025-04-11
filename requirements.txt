@@ -1,0 +1,7 @@
+openai
+json
+pyttsx3
+tkinter
+datetime
+os
+pyinstaller
